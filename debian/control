@@ -10,7 +10,7 @@ Homepage: https://github.com/stalo/info6005cw1cs3e11
 
 Package: info6005cw1cs3e11
 Architecture: any
-Depends: ${misc:Depends}
+Depends: ${misc:Depends}, ${shlibs:Depends}, php5-cli
 Description: BBC News
  The program prints some titles of news articles from the bbc rss feed.
  It uses debhelper and php. There are no conflicts between this package 
