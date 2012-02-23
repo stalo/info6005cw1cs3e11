@@ -1,0 +1,18 @@
+Source: info6005cw1cs3e11
+Section: x11
+Priority: optional
+Maintainer: Chrystalla Sofokleous <cs3e11@soton.ac.uk>
+Build-Depends: debhelper (>= 7.0.50~)
+Standards-Version: 3.8.4
+Homepage: https://github.com/stalo/info6005cw1cs3e11
+#Vcs-Git: git://git.debian.org/collab-maint/info6005cw1cs3e11.git
+#Vcs-Browser: http://git.debian.org/?p=collab-maint/info6005cw1cs3e11.git;a=summary
+
+Package: info6005cw1cs3e11
+Architecture: any
+Depends: ${misc:Depends}
+Description: BBC News
+ The program prints some titles of news articles from the bbc rss feed.
+ It uses debhelper and php. There are no conflicts between this package 
+ and other packages. 
+

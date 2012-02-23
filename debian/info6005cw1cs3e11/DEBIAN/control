@@ -1,0 +1,12 @@
+Package: info6005cw1cs3e11
+Version: 1.0.0
+Architecture: amd64
+Maintainer: Chrystalla Sofokleous <cs3e11@soton.ac.uk>
+Installed-Size: 22
+Section: x11
+Priority: optional
+Homepage: https://github.com/stalo/info6005cw1cs3e11
+Description: BBC News
+ The program prints some titles of news articles from the bbc rss feed.
+ It uses debhelper and php. There are no conflicts between this package
+ and other packages.
