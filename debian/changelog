@@ -1,5 +1,15 @@
-info6005cw1cs3e11 (1.0.0) unstable; urgency=low
+info6005cw1cs3e11 (v1.0.0) stable; urgency=low
 
-  * Initial Release.
+  [Chrystalla <cs3e11@soton.ac.uk>]
+  * Adding debian package files
+  * Adding debian package files
+  * Removing extra control file
+  * Adding deb file
+  * Adding updaded deb file
+  * Adding updated control file
+  * Adding README file
+  * Adding the package description file
+  * Adding the package tar file
+  * Adding the package changes file
 
- -- cs3e11 <cs3e11@soton.ac.uk>  Wed, 22 Feb 2012 15:51:44 +0000
+ -- Chrystalla <cs3e11@soton.ac.uk>  Fri, 24 Feb 2012 01:51:54 +0000
