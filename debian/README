@@ -1,0 +1,24 @@
+The Debian Package info6005cw1cs3e11
+----------------------------
+
+The Package is built to run on the latest Ubuntu LTS release.
+
+Package is available on https://github.com/stalo/info6005cw1cs3e11
+
+To install the package type in the terminal
+	sudo dpkg -i 'info6005cs3e11_1.0.0_amd64.deb'
+
+To install missing dependencies and install the package type in the terminal
+	apt-get -f install
+
+To run the program type in the terminal
+	sh get_news 
+		to get a list with some titles of the BBC news
+	sh get_news --feeds feed1,feed2,feed3
+     		to get a list of urls to read from
+	sh get_news --items n
+		to specify the number of items to read
+
+After the installation program files can be found in the folder usr/share/info6005cw1cs3e11.
+
+ -- cs3e11 <cs3e11@soton.ac.uk>  Wed, 22 Feb 2012 16:37:48 +0000
