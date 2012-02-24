@@ -1,0 +1,28 @@
+Format: 1.8
+Date: Wed, 22 Feb 2012 15:51:44 +0000
+Source: info6005cw1cs3e11
+Binary: info6005cw1cs3e11
+Architecture: source amd64
+Version: 1.0.0
+Distribution: unstable
+Urgency: low
+Maintainer: Chrystalla Sofokleous <cs3e11@soton.ac.uk>
+Changed-By: cs3e11 <cs3e11@soton.ac.uk>
+Description: 
+ info6005cw1cs3e11 - BBC News
+Changes: 
+ info6005cw1cs3e11 (1.0.0) unstable; urgency=low
+ .
+   * Initial Release.
+Checksums-Sha1: 
+ a3e3909fb49b19266fac92c7b67a5fc9fb0e8eb1 574 info6005cw1cs3e11_1.0.0.dsc
+ a4f56d0d03e397a0c3a593dc9afa03541cb40ddf 14470 info6005cw1cs3e11_1.0.0.tar.gz
+ 197f7dbfa6fe0fce5a827bb6dbe48d21069027ce 5570 info6005cw1cs3e11_1.0.0_amd64.deb
+Checksums-Sha256: 
+ dd4d973dbd8d04f58cb571f7705e9c4fef1b9b998685a544da6f72ed562c97c7 574 info6005cw1cs3e11_1.0.0.dsc
+ fe271ba026eb6e7efb5a7c96ca1d50bedb3894200661e3b84d2816d475de4ad2 14470 info6005cw1cs3e11_1.0.0.tar.gz
+ 47eaa213bcb4cd3d76a219c0100df0eb8aa4af953bf11de72724aad882d79036 5570 info6005cw1cs3e11_1.0.0_amd64.deb
+Files: 
+ 275c27a913f21acd67056c434134a3d9 574 x11 optional info6005cw1cs3e11_1.0.0.dsc
+ 503c59686630ddf3d802809e6591181a 14470 x11 optional info6005cw1cs3e11_1.0.0.tar.gz
+ 3ca08dbe410f7721226f4bd2cac94c99 5570 x11 optional info6005cw1cs3e11_1.0.0_amd64.deb
