@@ -8,8 +8,8 @@ Homepage: https://github.com/stalo/info6005cw1cs3e11
 Standards-Version: 3.8.4
 Build-Depends: debhelper (>= 7.0.50~)
 Checksums-Sha1: 
- a4f56d0d03e397a0c3a593dc9afa03541cb40ddf 14470 info6005cw1cs3e11_1.0.0.tar.gz
+ d50b47053a31da250f268d692eac12710eb2bf3e 14685 info6005cw1cs3e11_1.0.0.tar.gz
 Checksums-Sha256: 
- fe271ba026eb6e7efb5a7c96ca1d50bedb3894200661e3b84d2816d475de4ad2 14470 info6005cw1cs3e11_1.0.0.tar.gz
+ e56b8dfb1dd531a7078ae24d2ab5d3825ea80c6a4f92959e5e8b2f73526f9001 14685 info6005cw1cs3e11_1.0.0.tar.gz
 Files: 
- 503c59686630ddf3d802809e6591181a 14470 info6005cw1cs3e11_1.0.0.tar.gz
+ 84c232331345cae5783a3a0376db9ec2 14685 info6005cw1cs3e11_1.0.0.tar.gz
