@@ -1,28 +1,38 @@
 Format: 1.8
-Date: Wed, 22 Feb 2012 15:51:44 +0000
+Date: Fri, 24 Feb 2012 01:51:54 +0000
 Source: info6005cw1cs3e11
 Binary: info6005cw1cs3e11
 Architecture: source amd64
 Version: 1.0.0
-Distribution: unstable
+Distribution: stable
 Urgency: low
 Maintainer: Chrystalla Sofokleous <cs3e11@soton.ac.uk>
-Changed-By: cs3e11 <cs3e11@soton.ac.uk>
+Changed-By: Chrystalla <cs3e11@soton.ac.uk>
 Description: 
  info6005cw1cs3e11 - BBC News
 Changes: 
- info6005cw1cs3e11 (1.0.0) unstable; urgency=low
+ info6005cw1cs3e11 (1.0.0) stable; urgency=low
  .
-   * Initial Release.
+   [Chrystalla <cs3e11@soton.ac.uk>]
+   * Adding debian package files
+   * Adding debian package files
+   * Removing extra control file
+   * Adding deb file
+   * Adding updaded deb file
+   * Adding updated control file
+   * Adding README file
+   * Adding the package description file
+   * Adding the package tar file
+   * Adding the package changes file
 Checksums-Sha1: 
- a3e3909fb49b19266fac92c7b67a5fc9fb0e8eb1 574 info6005cw1cs3e11_1.0.0.dsc
- a4f56d0d03e397a0c3a593dc9afa03541cb40ddf 14470 info6005cw1cs3e11_1.0.0.tar.gz
- 197f7dbfa6fe0fce5a827bb6dbe48d21069027ce 5570 info6005cw1cs3e11_1.0.0_amd64.deb
+ eec1d9734db65ab919c54ca7f2b609d9042f8e67 574 info6005cw1cs3e11_1.0.0.dsc
+ d50b47053a31da250f268d692eac12710eb2bf3e 14685 info6005cw1cs3e11_1.0.0.tar.gz
+ 06fe51eb194fdc4ca3b64755bae8ecb5cd36278a 5696 info6005cw1cs3e11_1.0.0_amd64.deb
 Checksums-Sha256: 
- dd4d973dbd8d04f58cb571f7705e9c4fef1b9b998685a544da6f72ed562c97c7 574 info6005cw1cs3e11_1.0.0.dsc
- fe271ba026eb6e7efb5a7c96ca1d50bedb3894200661e3b84d2816d475de4ad2 14470 info6005cw1cs3e11_1.0.0.tar.gz
- 47eaa213bcb4cd3d76a219c0100df0eb8aa4af953bf11de72724aad882d79036 5570 info6005cw1cs3e11_1.0.0_amd64.deb
+ 00f8aedcf908d271846e8ec0e284e58e7a9ff2ed9b08c492b50c6e9ed4f7ff02 574 info6005cw1cs3e11_1.0.0.dsc
+ e56b8dfb1dd531a7078ae24d2ab5d3825ea80c6a4f92959e5e8b2f73526f9001 14685 info6005cw1cs3e11_1.0.0.tar.gz
+ aff37ba447fa184d5ca13a700a9ff32a6283ed6191fe71ba022fd2c08dbf42bc 5696 info6005cw1cs3e11_1.0.0_amd64.deb
 Files: 
- 275c27a913f21acd67056c434134a3d9 574 x11 optional info6005cw1cs3e11_1.0.0.dsc
- 503c59686630ddf3d802809e6591181a 14470 x11 optional info6005cw1cs3e11_1.0.0.tar.gz
- 3ca08dbe410f7721226f4bd2cac94c99 5570 x11 optional info6005cw1cs3e11_1.0.0_amd64.deb
+ 1e9dee9c2fb757a6e1e3d116da1b0f50 574 x11 optional info6005cw1cs3e11_1.0.0.dsc
+ 84c232331345cae5783a3a0376db9ec2 14685 x11 optional info6005cw1cs3e11_1.0.0.tar.gz
+ 40a62f7ad236949d55b1fe36b8386fd3 5696 x11 optional info6005cw1cs3e11_1.0.0_amd64.deb
